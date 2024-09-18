@@ -33,12 +33,3 @@ gcc -std=c99 -o sistema_flex main.c login.c email.c menu.c file_ops.c search.c s
    - Listar itens cadastrados.
    - Editar ou excluir itens.
 3. **Saída**: Escolha a opção de sair para encerrar o programa.
-
-## Contato
-
-Para mais informações sobre o projeto, entre em contato com o responsável pelo desenvolvimento.
-
----
-
-**SistemaFlex** - Desenvolvido como tarefa da disciplina Estruturas de Dados 1, Engenharia da Computação.
-```
