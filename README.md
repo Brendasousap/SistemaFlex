@@ -20,7 +20,6 @@ O **SistemaFlex** é um projeto projetado para gerenciar diferentes tipos de ite
 ## Requisitos
 
 - **Compilador C**: GCC ou similar.
-- **Padrão C99**: Utilize o padrão C99 para suportar declarações de variáveis dentro de loops `for`.
 
 ## Instruções de Compilação
 
